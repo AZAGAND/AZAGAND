@@ -17,15 +17,15 @@
 ---
 
 ### 🛠️ Tech Stack
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/-Livewire-4E56A6?style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,livewire,tailwind,js,html,css,mysql,git,vscode,github" />
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/-Problem%20Solver-38BDF8?style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Night%20Coder%20🌙-8B5CF6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Coffee%20Lover%20☕-FBBF24?style=for-the-badge">
+</p>
 ---
 
 ### 📈 GitHub Stats
@@ -75,18 +75,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hello+World!+👋;Welcome+to+Zagan's+Lab;Let's+build+something+awesome!+🚀" alt="Typing SVG">
 </p>
 
----
-
-### ⚙️ Tech Arsenal
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,livewire,tailwind,js,html,css,mysql,git,vscode,github" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Problem%20Solver-38BDF8?style=for-the-badge">
-  <img src="https://img.shields.io/badge/-Night%20Coder%20🌙-8B5CF6?style=for-the-badge">
-  <img src="https://img.shields.io/badge/-Coffee%20Lover%20☕-FBBF24?style=for-the-badge">
-</p>
 
 ---
 
