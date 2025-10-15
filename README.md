@@ -8,9 +8,8 @@
 ---
 
 ### 🚀 Current Projects
-- 🐾 [RSHP - Klinik Hewan Management System](https://github.com/zaganxd/rshp)
-- 🧠 [Microservices Study Repo](https://github.com/zaganxd/microservice-notes)
-- 📊 [Stock Analysis Tools](https://github.com/zaganxd/market-analyzer)
+- 🐾 [RSHP - Klinik Hewan Management System](https://github.com/AZAGAND/College_Project.git)
+- 🧠 [Web Marketplace Project PBD](https://github.com/AZAGAND/Project-PBD.git)
 
 ---
 
