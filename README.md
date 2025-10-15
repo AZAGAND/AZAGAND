@@ -2,16 +2,17 @@
 💻 Full-stack dev in progress | 🩺 Building RSHP Veterinary System  
 ⚙️ Laravel • Livewire • TailwindCSS • MySQL  
 
-![Visitors](https://komarev.com/ghpvc/?username=zaganxd&color=blue)
-----
+![Visitors](https://komarev.com/ghpvc/?username=AZAGAND&color=blue)
+
+---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hello+World!;Welcome+to+my+GitHub!;Let's+build+something+awesome!)](https://git.io/typing-svg)
 
 ---
 
 ### 🚀 Current Projects
-- 🐾 [RSHP - Klinik Hewan Management System](https://github.com/AZAGAND/College_Project.git)
-- 🧠 [Web Marketplace Project PBD](https://github.com/AZAGAND/Project-PBD.git)
+- 🐾 [RSHP - Klinik Hewan Management System](https://github.com/AZAGAND/College_Project)
+- 🧠 [Web Marketplace Project PBD](https://github.com/AZAGAND/Project-PBD)
 
 ---
 
@@ -46,13 +47,14 @@
 ### 🌐 Connect with Me
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/zagan_ftr.tech/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ikhsanudin-arsalan-b60869288/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](ikhsanarsalan@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ikhsanarsalan@gmail.com)
 
 ---
 
 ### ☕ Fun Fact
 > I code better after coffee ☕  
 > and break things after midnight 🌙
+
 ---
 
 ⭐️ From [@Zagan Jade](https://github.com/AZAGAND)
