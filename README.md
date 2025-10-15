@@ -3,6 +3,9 @@
 ⚙️ Laravel • Livewire • TailwindCSS • MySQL  
 
 ![Visitors](https://komarev.com/ghpvc/?username=zaganxd&color=blue)
+----
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hello+World!;Welcome+to+my+GitHub!;Let's+build+something+awesome!)](https://git.io/typing-svg)
 
 ---
