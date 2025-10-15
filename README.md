@@ -10,6 +10,7 @@
   </a>
 </p>
 
+
 <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hello+World!;Welcome+to+Zagans+Lab;Lets+build+something+awesome!"
