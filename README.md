@@ -10,6 +10,7 @@
   </a>
 </p>
 
+---
 
 <p align="center">
   <img 
@@ -35,6 +36,7 @@
   <img src="https://img.shields.io/badge/-Night%20Coder%20🌙-8B5CF6?style=for-the-badge">
   <img src="https://img.shields.io/badge/-Coffee%20Lover%20☕-FBBF24?style=for-the-badge">
 </p>
+
 ---
 
 ### 📈 GitHub Stats
@@ -70,10 +72,3 @@
 > and break things after midnight 🌙
 
 ---
-
-<details>
-<summary>🌙 <b>Dark Hacker Edition (Click to Expand)</b></summary>
-<br>
-
-
-
