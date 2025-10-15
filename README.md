@@ -18,7 +18,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,livewire,tailwind,js,html,css,mysql,git,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,tailwind,js,html,css,mysql,git,vscode,github" />
 </p>
 
 <p align="center">
@@ -29,9 +29,14 @@
 ---
 
 ### 📈 GitHub Stats
-![Zagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AZAGAND&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AZAGAND&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=38BDF8&icon_color=8B5CF6" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZAGAND&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=38BDF8" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AZAGAND&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AZAGAND&theme=tokyonight&hide_border=true&background=000000&ring=38BDF8&fire=FBBF24&currStreakLabel=38BDF8" />
+</p>
 
 ---
 
@@ -75,26 +80,3 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hello+World!+👋;Welcome+to+Zagan's+Lab;Let's+build+something+awesome!+🚀" alt="Typing SVG">
 </p>
 
-
----
-
-### 📊 GitHub Analytics
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AZAGAND&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=38BDF8&icon_color=8B5CF6" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZAGAND&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=38BDF8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AZAGAND&theme=tokyonight&hide_border=true&background=000000&ring=38BDF8&fire=FBBF24&currStreakLabel=38BDF8" />
-</p>
-
----
-
-### 🧠 About Me
-```text
-💡 “The code is my canvas, bugs are just brushstrokes of progress.”
-
-🎓 Studying: Database Systems | Microservices | HCI Design  
-🛠️ Dev Stack: Laravel • Livewire • TailwindCSS • MySQL  
-🚀 Passion: Building scalable systems & contributing to open-source  
-🌙 Motto: Code. Break. Fix. Repeat.
