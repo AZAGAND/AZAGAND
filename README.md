@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi im Zagan Jade</h1>
 <h3 align="center">⚙️ Full-stack Dev in progress | 💻 Night Coder | Coffee Engineer</h3>
+<h3 align="center">⚙️ Laravel • Livewire • TailwindCSS • MySQL</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AZAGAND&label=PROFILE+VIEWS&color=38BDF8&style=for-the-badge" alt="Profile views"/>
