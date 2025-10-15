@@ -30,7 +30,6 @@
 
 ### 📈 GitHub Stats
 ![Zagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AZAGAND&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AZAGAND&layout=compact&theme=tokyonight)
 
 ---
@@ -57,4 +56,56 @@
 
 ---
 
-⭐️ From [@Zagan Jade](https://github.com/AZAGAND)
+<details>
+<summary>🌙 <b>Dark Hacker Edition (Click to Expand)</b></summary>
+<br>
+
+<h1 align="center">💀 Zagan Jade — Dark Hacker Mode</h1>
+<h3 align="center">⚙️ Full-stack Dev | Night Coder | Coffee Engineer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AZAGAND&label=PROFILE+VIEWS&color=38BDF8&style=for-the-badge" alt="Profile views"/>
+  <a href="https://github.com/AZAGAND?tab=followers">
+    <img src="https://img.shields.io/github/followers/AZAGAND?color=8B5CF6&style=for-the-badge&logo=github" alt="GitHub followers"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hello+World!+👋;Welcome+to+Zagan's+Lab;Let's+build+something+awesome!+🚀" alt="Typing SVG">
+</p>
+
+---
+
+### ⚙️ Tech Arsenal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,livewire,tailwind,js,html,css,mysql,git,vscode,github" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Problem%20Solver-38BDF8?style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Night%20Coder%20🌙-8B5CF6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Coffee%20Lover%20☕-FBBF24?style=for-the-badge">
+</p>
+
+---
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AZAGAND&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=38BDF8&icon_color=8B5CF6" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZAGAND&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=38BDF8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AZAGAND&theme=tokyonight&hide_border=true&background=000000&ring=38BDF8&fire=FBBF24&currStreakLabel=38BDF8" />
+</p>
+
+---
+
+### 🧠 About Me
+```text
+💡 “The code is my canvas, bugs are just brushstrokes of progress.”
+
+🎓 Studying: Database Systems | Microservices | HCI Design  
+🛠️ Dev Stack: Laravel • Livewire • TailwindCSS • MySQL  
+🚀 Passion: Building scalable systems & contributing to open-source  
+🌙 Motto: Code. Break. Fix. Repeat.
