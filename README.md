@@ -1,14 +1,24 @@
-# 👋 Hi, I’m Zagan  
+
+<h1 align="center">💀 Zagan Jade — Dark Hacker Mode</h1>
+<h3 align="center">⚙️ Full-stack Dev | Night Coder | Coffee Engineer
 💻 Full-stack dev in progress | 🩺 Building RSHP Veterinary System  
-⚙️ Laravel • Livewire • TailwindCSS • MySQL  
+⚙️ Laravel • Livewire • TailwindCSS • MySQL
+</h3>
 
-![Visitors](https://komarev.com/ghpvc/?username=AZAGAND&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AZAGAND&label=PROFILE+VIEWS&color=38BDF8&style=for-the-badge" alt="Profile views"/>
+  <a href="https://github.com/AZAGAND?tab=followers">
+    <img src="https://img.shields.io/github/followers/AZAGAND?color=8B5CF6&style=for-the-badge&logo=github" alt="GitHub followers"/>
+  </a>
+</p>
 
----
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hello+World!;Welcome+to+Zagans+Lab;Lets+build+something+awesome!"
+    alt="Typing SVG" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hello+World!;Welcome+to+my+GitHub!;Let's+build+something+awesome!)](https://git.io/typing-svg)
-
----
+  
 
 ### 🚀 Current Projects
 - 🐾 [RSHP - Klinik Hewan Management System](https://github.com/AZAGAND/College_Project)
@@ -66,20 +76,5 @@
 <summary>🌙 <b>Dark Hacker Edition (Click to Expand)</b></summary>
 <br>
 
-<h1 align="center">💀 Zagan Jade — Dark Hacker Mode</h1>
-<h3 align="center">⚙️ Full-stack Dev | Night Coder | Coffee Engineer</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AZAGAND&label=PROFILE+VIEWS&color=38BDF8&style=for-the-badge" alt="Profile views"/>
-  <a href="https://github.com/AZAGAND?tab=followers">
-    <img src="https://img.shields.io/github/followers/AZAGAND?color=8B5CF6&style=for-the-badge&logo=github" alt="GitHub followers"/>
-  </a>
-</p>
-
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hello+World!;Welcome+to+Zagans+Lab;Lets+build+something+awesome!"
-    alt="Typing SVG" />
-</p>
 
 
