@@ -74,4 +74,6 @@
 ---
 
  
-![Snake animation](https://github.com/AZAGAND/AZAGAND/blob/output/github-contribution-grid-snake.svg)
+![Snake animation dark](https://github.com/AZAGAND/AZAGAND/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake animation light](https://github.com/AZAGAND/AZAGAND/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
