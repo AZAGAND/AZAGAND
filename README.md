@@ -51,12 +51,6 @@
 ### ☕ Fun Fact
 > I code better after coffee ☕  
 > and break things after midnight 🌙
-
 ---
 
-### 🪩 3D Contribution Graph
-![GitHub 3D Profile](https://github.com/zaganxd/profile-3d-contrib/blob/main/profile-night-rainbow.svg)
-
----
-
-⭐️ From [@zaganxd](https://github.com/zaganxd)
+⭐️ From [@Zagan Jade](https://github.com/AZAGAND)
