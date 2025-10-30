@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AZAGAND&theme=tokyonight&hide_border=true&background=000000&ring=38BDF8&fire=FBBF24&currStreakLabel=38BDF8" />
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=AZAGAND&theme=tokyonight&hide_border=true&background=000000&ring=38BDF8&fire=FBBF24&currStreakLabel=38BDF8](https://streak-stats.demolab.com?user=AZAGAND&theme=tokyonight&hide_border=true&background=000000&ring=38BDF8&fire=FBBF24&currStreakLabel=38BDF8)" />
 </p>
 
 ---
