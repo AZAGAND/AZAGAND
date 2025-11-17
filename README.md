@@ -4,9 +4,9 @@
 <h3 align="center">⚙️ Laravel • Livewire • TailwindCSS • MySQL</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AZAGAND&label=PROFILE+VIEWS&color=38BDF8&style=for-the-badge" alt="Profile views"/>
-  <a href="https://github.com/AZAGAND?tab=followers">
-    <img src="https://img.shields.io/github/followers/AZAGAND?color=8B5CF6&style=for-the-badge&logo=github" alt="GitHub followers"/>
+  <img src="https://komarev.com/ghpvc/?username=ZaganJade&label=PROFILE+VIEWS&color=38BDF8&style=for-the-badge" alt="Profile views"/>
+  <a href="https://github.com/ZaganJade?tab=followers">
+    <img src="https://img.shields.io/github/followers/ZaganJade?color=8B5CF6&style=for-the-badge&logo=github" alt="GitHub followers"/>
   </a>
 </p>
 
@@ -21,8 +21,8 @@
 ---
 
 ### 🚀 Current Projects
-- 🐾 [RSHP - Klinik Hewan Management System](https://github.com/AZAGAND/College_Project)
-- 🧠 [Web Marketplace Project PBD](https://github.com/AZAGAND/Project-PBD)
+- 🐾 [RSHP - Klinik Hewan Management System](https://github.com/ZaganJade/College_Project)
+- 🧠 [Web Marketplace Project PBD](https://github.com/ZaganJade/Project-PBD)
 
 ---
 
@@ -41,12 +41,12 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AZAGAND&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=38BDF8&icon_color=8B5CF6" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZAGAND&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=38BDF8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ZaganJade&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=38BDF8&icon_color=8B5CF6" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaganJade&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=38BDF8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AZAGAND&theme=tokyonight&hide_border=true&background=000000&ring=38BDF8&fire=FBBF24&currStreakLabel=38BDF8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZaganJade&theme=tokyonight&hide_border=true&background=000000&ring=38BDF8&fire=FBBF24&currStreakLabel=38BDF8" />
 </p>
 
 ---
